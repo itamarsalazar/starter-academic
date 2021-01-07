@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ItamarSalazar
 - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=E3AUOWoAAAAJ
@@ -53,13 +50,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/itamarsalazar/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ItamarSalazar
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
