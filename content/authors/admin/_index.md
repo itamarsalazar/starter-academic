@@ -1,36 +1,39 @@
 ---
 # Display name
-title: Itamar F. Salazar-Reque
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: INICTEL-UNI
-  url: https://www.inictel-uni.edu.pe/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adversarial robustness in deeep learning and applications.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Adversarial robustness
-- Deep Learning
-- Applications
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Electrical Engineering
-    institution: Universidad Nacional de Ingeniería
-    year: 2018
-  - course: BSc in Telecommunications Eng.
-    institution: Universidad Nacional de Ingeniería
-    year: 2015
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,23 +45,23 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ItamarSalazar
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=E3AUOWoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/itamarsalazar
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/itamarsalazar/
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,14 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a researcher in the Group of Artificial Intelligence and Signal & Image Processing at INICTEL-UNI in Lima, Perú. I am currently doing an internship at <span style="font-family: Lato"><a href="https://www.epfl.ch/labs/lts4/" target="_blank">LTS4 Lab in EPFL</a></span> working on the inductive bias of Deep Neural Networks.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
-understanding of some machine learning techniques (SVM, ANN, KNN, among others) and to have a better sense about the difficulty of vision
-tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
-which I explored some techniques to solve the EEG inverse problem (MNE, WMNE, FOCUSS, MFOCUSS and Multiple Sparse Priors), I manipulated
-EEG recordings taken during attention tasks (P300 waves) using SPM software. During the last year I have been using CNNs in different problems
-like image or video classifications. I observed that current AI techniques have some problems manipulating ”the unknown” in classification tasks
-(a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am interested on those problems.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
