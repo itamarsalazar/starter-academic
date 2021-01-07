@@ -14,13 +14,13 @@ organizations:
   url: https://www.inictel-uni.edu.pe/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include adversarial robustness in deeep learning and applications.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Adversarial robustness
+- Deep Learning
+- Applications
 
 # Education to show in About widget
 education:
