@@ -20,7 +20,7 @@ bio: My research interests include adversarial robustness in deeep learning and 
 interests:
 - Adversarial robustness
 - Deep Learning
-- Machine learning
+- Applications
 
 # Education to show in About widget
 education:
@@ -67,8 +67,14 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher in the Group of Artificial Intelligence and Signal & Image Processing at INICTEL-UNI in Lima, Perú. I am currently doing an internship at <span style="font-family: Lato"><a href="https://www.epfl.ch/labs/lts4/" target="_blank">LTS4 Lab in EPFL</a></span> working on the inductive bias of Deep Neural Networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
+understanding of some machine learning techniques (SVM, ANN, KNN, among others) and to have a better sense about the difficulty of vision
+tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
+which I explored some techniques to solve the EEG inverse problem (MNE, WMNE, FOCUSS, MFOCUSS and Multiple Sparse Priors), I manipulated
+EEG recordings taken during attention tasks (P300 waves) using SPM software. During the last year I have been using CNNs in different problems
+like image or video classifications. I observed that current AI techniques have some problems manipulating ”the unknown” in classification tasks
+(a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am interested on those problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
