@@ -77,4 +77,4 @@ EEG recordings taken during attention tasks (P300 waves) using SPM software. Dur
 like image or video classifications. I observed that current AI techniques have some problems manipulating ”the unknown” in classification tasks
 (a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am interested on those problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
