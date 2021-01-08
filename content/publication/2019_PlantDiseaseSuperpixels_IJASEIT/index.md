@@ -6,7 +6,7 @@ title: "An Algorithm for Plant Disease Visual Symptom Detection in Digital Image
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Salazar-Reque I F
-- Gustavo Huaman
+- Huaman Gustavo
 - Kemper Guillermo
 - Telles Joel
 - Diaz Daniel
