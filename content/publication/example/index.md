@@ -5,7 +5,7 @@ title: "Automatic Leaf Segmentation from Images Taken Under Uncontrolled Conditi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Salazar-Reque I. F.
+- Salazar-Reque I F
 - Huaman Bustamante S G
 
 # Author notes (optional)
@@ -14,10 +14,10 @@ authors:
 # - "Equal contribution"
 
 date: "2020-12-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-030-57566-3_27"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
