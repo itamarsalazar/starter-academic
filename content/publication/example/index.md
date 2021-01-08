@@ -76,6 +76,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 slides: ""
+
 ---
 
 {{% callout note %}}
