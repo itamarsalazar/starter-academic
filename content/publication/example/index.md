@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Automatic Leaf Segmentation from Images Taken Under Uncontrolled Conditions Using Convolutional Neural Networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Salazar-Reque I F
-- Huaman Bustamante
+- Salazar-Reque I. F.
+- Huaman Bustamante S G
 
 # Author notes (optional)
 # author_notes:
