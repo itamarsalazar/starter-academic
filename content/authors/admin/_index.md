@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Electrical Engineering
+  - course: MSc in Electronic Engineering
     institution: Universidad Nacional de Ingeniería
     year: 2018
   - course: BSc in Telecommunications Eng.
