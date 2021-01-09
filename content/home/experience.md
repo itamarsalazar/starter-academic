@@ -45,7 +45,7 @@ experience:
     location: Lima, Peru
     date_start: '2019-06-01'
     date_end: ''
-    description: We apply artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru. We also do some research on machine learning techniques (CNN). A list of papers can be found here: https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/.
+    description: We apply artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru. We also do some research on machine learning techniques (CNN). A list of papers can be found here: www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/.
     
   - title: Research project assistant
     company: INICTEL-UNI
