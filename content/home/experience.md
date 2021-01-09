@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Intern
+  - title: Research Intern
     company: EPFL
     company_url: ''
     location: Laussane, Switzerland
@@ -33,19 +33,20 @@ experience:
     date_end: ''
     description: |2-
         Studying the inductive bias of Deep Neural Networks.
-        #Responsibilities include:
+        Responsibilities include:
         
-        #* Analysing
-        #* Modelling
-        #* Deploying
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: Researcher
+  - title: Specialized researcher in technological development
     company: INICTEL-UNI
     company_url: ''
     location: Lima, Peru
     date_start: '2019-06-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: We apply artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru. We also do some research on machine learning techniques (CNN). 
+    A list of papers can be found here: https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/.
     
   - title: Professor
     company: University X
