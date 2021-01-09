@@ -16,10 +16,14 @@
 #theme = "1950s"
 #theme = "apogee"
 #theme = "coffee"
-theme = "dark"
-#theme = "forest"
+#theme = "dark"
+theme = "forest"
 #theme = "minimal"
 #theme = "mrrobot"
+#theme = "ocean"
+#theme = "rose"
+#theme = "strawberry"
+
 
 # Enable users to switch between day and night mode?
 day_night = true
