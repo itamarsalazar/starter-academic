@@ -53,7 +53,11 @@ experience:
     location: Lima, Peru
     date_start: '2018-06-01'
     date_end: '2019-06-01'
-    description:  I was in charge of the disease identification module in the project "Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua".
+    description: |2-
+        I worked s a Research Project assistan in two periods:
+        
+        * Jun 2018 - Jun 2019: I was in charge of the disease identification module in the project "Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua".
+        * Jun 2015 - Jun 2016: I was in charge of the analysis of satellite images to estimate evapotranspiration in the project "Desarrollo de una plataforma de teledetección basada en computación paralela para el procesamiento de imágenes satelitales, haciendo uso de firmas espectrales y análisis de suelos orientada a incrementar el rendimiento del maíz amarillo duro en Lambayeque"
     
   - title: Master Student
     company: Universidad Nacional de Ingeniería
@@ -62,14 +66,6 @@ experience:
     date_start: '2016-06-01'
     date_end: '2018-06-01'
     description: Taught electronic engineering and researched semiconductor physics.
-    
-  - title: Research project assistant
-    company: INICTEL-UNI
-    company_url: ''
-    location: Lima, Peru
-    date_start: '2015-06-01'
-    date_end: '2016-06-01'
-    description:  I was in charge of the analysis of satellite images to estimate evapotranspiration in the project "Desarrollo de una plataforma de teledetección basada en computación paralela para el procesamiento de imágenes satelitales, haciendo uso de firmas espectrales y análisis de suelos orientada a incrementar el rendimiento del maíz amarillo duro en Lambayeque".
     
   - title: Teaching experience
     company: UPC, UTP, UNTELS
