@@ -51,23 +51,41 @@ experience:
     company: INICTEL-UNI
     company_url: ''
     location: Lima, Peru
-    date_start: '2019-06-01'
-    date_end: ''
+    date_start: '2018-06-01'
+    date_end: '2019-06-01'
     description:  I was in charge of the disease identification module in the project "Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua".
+    
+  - title: Master Student
+    company: Universidad Nacional de Ingeniería
+    company_url: ''
+    location: Lima, Perú
+    date_start: '2016-06-01'
+    date_end: '2018-06-01'
+    description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Research project assistant
     company: INICTEL-UNI
     company_url: ''
     location: Lima, Peru
-    date_start: '2019-06-01'
-    date_end: ''
+    date_start: '2015-06-01'
+    date_end: '2016-06-01'
     description:  I was in charge of the analysis of satellite images to estimate evapotranspiration in the project "Desarrollo de una plataforma de teledetección basada en computación paralela para el procesamiento de imágenes satelitales, haciendo uso de firmas espectrales y análisis de suelos orientada a incrementar el rendimiento del maíz amarillo duro en Lambayeque".
     
-  - title: Professor
-    company: University X
+  - title: Teaching experience
+    company: UPC, UTP, UNTELS
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Lima, Perú
+    date_start: '2019-04-01'
+    date_end: '2020-12-01'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Visiting researcher
+    company: New York Institute of Technology
+    company_url: ''
+    location: New York, USA
+    date_start: '2017-08-01'
+    date_end: '2017-12-15'
+    description:  Studying CPA algorithm.
+    
+    
 ---
