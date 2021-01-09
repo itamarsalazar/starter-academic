@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Electronic Engineering
-    institution: Universidad Nacional de Ingeniería (with scholarship from peruvian government)
+  - course: MSc in Electronic Engineering (with scholarship from peruvian government)
+    institution: Universidad Nacional de Ingeniería
     year: 2018
   - course: BSc in Telecommunications Eng.
     institution: Universidad Nacional de Ingeniería (placed first in graduating class)
