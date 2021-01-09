@@ -60,7 +60,7 @@ experience:
     location: Lima, Perú
     date_start: '2016-06-01'
     date_end: '2018-06-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: For my thesis I explored some techniques to solve the EEG inverse problem (MNE, WMNE, FOCUSS, MFOCUSS and Multiple Sparse Priors) and its application to 32-channel EEG signals. I manipulated EEG recordings taken during attention tasks (P300 waves) using SPM software.
     
   - title: Teaching experience
     company: UPC, UTP, UNTELS
