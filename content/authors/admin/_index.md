@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: MSc in Electronic Engineering
-    institution: Universidad Nacional de Ingeniería
+    institution: Universidad Nacional de Ingeniería (with scholarship from peruvian government)
     year: 2018
   - course: BSc in Telecommunications Eng.
-    institution: Universidad Nacional de Ingeniería (Placed first in graduating class)
+    institution: Universidad Nacional de Ingeniería (placed first in graduating class)
     year: 2015
 
 
