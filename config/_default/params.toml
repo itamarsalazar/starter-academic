@@ -17,8 +17,8 @@
 #theme = "apogee"
 #theme = "coffee"
 #theme = "dark"
-theme = "forest"
-#theme = "minimal"
+#theme = "forest"
+theme = "minimal"
 #theme = "mrrobot"
 #theme = "ocean"
 #theme = "rose"
@@ -36,7 +36,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "S"
 
 ############################
 ## Basic Info
