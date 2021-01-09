@@ -52,7 +52,7 @@ experience:
         I worked s a Research project assistant in two periods:
         
         * Jun 2018 - Jun 2019: I was in charge of the disease identification module in the project "Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua".
-        * Jun 2015 - Jun 2016: I was in charge of the analysis of satellite images to estimate evapotranspiration in the project "Desarrollo de una plataforma de teledetección basada en computación paralela para el procesamiento de imágenes satelitales, haciendo uso de firmas espectrales y análisis de suelos orientada a incrementar el rendimiento del maíz amarillo duro en Lambayeque"
+        * Jun 2015 - Jun 2016: I was in charge of the analysis of satellite images to estimate evapotranspiration in this [project](https://www.inictel-uni.edu.pe/index.php/2020/05/29/desarrollo-de-un-dispositivo-optoelectronico-de-bajo-costo-y-banda-ancha-sintonizando-velocidad-de-grupo-en-interface-rf-optica-2-2-2/)
     
   - title: Master Student
     company: Universidad Nacional de Ingeniería
