@@ -69,9 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-I am currently doing a remote internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. <br>
-I am also working as a researcher at INICTEL-UNI applying some artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru, mostly related to visual tasks.
-
+I am currently doing a remote internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. I am also working as a researcher in the group AI at [INICTEL-UNI](https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/) applying some machine learning and signal & image processing techniques to develop projects for national institutes in Peru, mostly related to classification tasks.<br> 
 
 In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
 understanding of some classical machine learning techniques and to have a better sense about the difficulty of vision
