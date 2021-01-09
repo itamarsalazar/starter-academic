@@ -29,7 +29,7 @@ education:
     institution: Universidad Nacional de Ingeniería
     year: 2018
   - course: BSc in Telecommunications Eng.
-    institution: Universidad Nacional de Ingeniería
+    institution: Universidad Nacional de Ingeniería (Placed first in graduating class)
     year: 2015
 
 
