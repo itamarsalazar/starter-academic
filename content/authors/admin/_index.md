@@ -69,14 +69,16 @@ email: ""
 highlight_name: false
 ---
 
-I am a researcher in the Group of Artificial Intelligence and Signal & Image Processing at INICTEL-UNI in Lima, Perú. I am currently doing an internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. <br>
+I am currently doing a remote internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. <br>
+I am also working as a researcher at INICTEL-UNI applying some artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru, mostly related to visual tasks.
+
+
 In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
-understanding of some machine learning techniques (SVM, ANN, KNN, among others) and to have a better sense about the difficulty of vision
+understanding of some classical machine learning techniques and to have a better sense about the difficulty of vision
 tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
-which I explored some techniques to solve the EEG inverse problem (MNE, WMNE, FOCUSS, MFOCUSS and Multiple Sparse Priors), I manipulated
-EEG recordings taken during attention tasks (P300 waves) using SPM software. During the last year I have been using CNNs in different problems
-like image or video classifications. I observed that current AI techniques have some problems manipulating ”the unknown” in classification tasks
-(a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am interested on those problems.
+which I explored some techniques to solve the EEG inverse problem. During the last year I have been using CNNs in different problems
+like image or video classifications. I observed that current AI techniques have some problems manipulating "the unknown" in classification tasks
+(a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am currently interested on those problems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
