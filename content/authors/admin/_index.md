@@ -69,10 +69,10 @@ email: ""
 highlight_name: false
 ---
 
-I am currently doing a remote internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. I am also working as a researcher in the group AI at [INICTEL-UNI](https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/) applying some machine learning and signal & image processing techniques to develop projects for national institutes in Peru, mostly related to classification tasks.
+I am currently doing a remote internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of DNN. I am also working as a researcher in the group AI at [INICTEL-UNI](https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/) applying some machine learning and signal & image processing techniques to develop projects for national institutes in Peru, mostly related to classification tasks.
 
 In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
-understanding of some classical machine learning techniques and to have a better sense about the difficulty of vision
+understanding of some classical ML techniques and to have a better sense about the difficulty of vision
 tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
 which I explored some techniques to solve the EEG inverse problem. During the last year I have been using CNNs in different problems
 like image or video classifications. I observed that current AI techniques have some problems manipulating "the unknown" in classification tasks
