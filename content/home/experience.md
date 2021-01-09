@@ -40,7 +40,7 @@ experience:
     location: Lima, Peru
     date_start: '2019-06-01'
     date_end: ''
-    description: We apply artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru. We also do some research on machine learning techniques (CNN). A list of papers can be found here www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/.
+    description: We apply artificial intelligence and signal & image processing techniques to develop projects for national institutes in Peru. We also do some research on machine learning techniques (CNN). A list of papers can be found [here](www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/).
     
   - title: Research project assistant
     company: INICTEL-UNI
@@ -51,7 +51,7 @@ experience:
     description: |2-
         I worked s a Research project assistant in two periods:
         
-        * Jun 2018 - Jun 2019: I was in charge of the disease identification module in the project "Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua".
+        * Jun 2018 - Jun 2019: I was in charge of the disease identification module in this [project](https://www.inictel-uni.edu.pe/index.php/2020/05/14/aplicacion-movil-y-sistema-electronico-portatil-para-monitorizar-variables-que-influyen-la-produccion-del-cultivo-de-palta-hass-usando-sensores-de-temperatura-humedad-de-suelo-ph-e-identificacion-de/).
         * Jun 2015 - Jun 2016: I was in charge of the analysis of satellite images to estimate evapotranspiration in this [project](https://www.inictel-uni.edu.pe/index.php/2020/05/29/desarrollo-de-un-dispositivo-optoelectronico-de-bajo-costo-y-banda-ancha-sintonizando-velocidad-de-grupo-en-interface-rf-optica-2-2-2/)
     
   - title: Master Student
