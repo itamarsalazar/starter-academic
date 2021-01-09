@@ -54,7 +54,7 @@ experience:
     location: Lima, Peru
     date_start: '2019-06-01'
     date_end: ''
-    description:  I was in charge of the disease identification module in the project: ”Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua”.
+    description:  I was in charge of the disease identification module in the project "Aplicación móvil y sistema electrónico portátil para monitorizar variables que influyen la producción del cultivo de palta Hass usando sensores de temperatura, humedad de suelo, PH e identificación de enfermedades por imágenes en la Región Moquegua".
     
     
   - title: Professor
