@@ -18,11 +18,11 @@
 #theme = "coffee"
 #theme = "dark"
 #theme = "forest"
-#theme = "minimal"
+theme = "minimal"
 #theme = "mr robot"
 #theme = "ocean"
 #theme = "rose"
-theme = "strawberry"
+#theme = "strawberry"
 
 
 # Enable users to switch between day and night mode?
