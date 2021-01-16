@@ -68,7 +68,7 @@ experience:
     location: Lima, Perú
     date_start: '2019-04-01'
     date_end: '2020-12-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: I taught programming language(C), signals & systems, neural networks.
     
   - title: Visiting researcher
     company: New York Institute of Technology
