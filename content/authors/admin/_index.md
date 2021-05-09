@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a researcher in the Group of Artificial Intelligence and Signal & Image Processing at INICTEL-UNI in Lima, Perú. I am currently doing an internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. <br>
+I am a researcher in the [group of signal processing and artificial intelligence](https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/) from INICTEL-UNI in Lima, Perú. I am currently doing an internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. <br>
 In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
 understanding of some machine learning techniques (SVM, ANN, KNN, among others) and to have a better sense about the difficulty of vision
 tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
