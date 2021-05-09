@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-05-16T00:00:00Z"
-doi: "https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-040"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-08T00:00:00Z"
