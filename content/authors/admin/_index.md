@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: MSc in Electronic Engineering
-    institution: Universidad Nacional de Ingeniería
+    institution: Universidad Nacional de Ingeniería (fellowship by peruvian government)
     year: 2018
   - course: BSc in Telecommunications Eng.
-    institution: Universidad Nacional de Ingeniería
+    institution: Universidad Nacional de Ingeniería (placed first in graduating class)
     year: 2015
 
 
@@ -69,14 +69,13 @@ email: ""
 highlight_name: false
 ---
 
-I am a researcher in the [group of signal processing and artificial intelligence](https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/) from INICTEL-UNI in Lima, Perú. I am currently doing an internship at [LTS4 Lab in EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of Deep Neural Networks. <br>
-In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
-understanding of some machine learning techniques (SVM, ANN, KNN, among others) and to have a better sense about the difficulty of vision
-tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
-which I explored some techniques to solve the EEG inverse problem (MNE, WMNE, FOCUSS, MFOCUSS and Multiple Sparse Priors), I manipulated
-EEG recordings taken during attention tasks (P300 waves) using SPM software. During the last year I have been using CNNs in different problems
-like image or video classifications. I observed that current AI techniques have some problems manipulating ”the unknown” in classification tasks
-(a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am interested on those problems.
+I am currently doing a remote internship at [EPFL](https://www.epfl.ch/labs/lts4/) working on the inductive bias of DNN. I am also working as a researcher in the group AI at [INICTEL-UNI](https://www.inictel-uni.edu.pe/index.php/2020/03/04/procesamiento-de-senales-imagenes-e-inteligencia-artificial/) applying some machine learning and signal & image processing techniques to develop projects for national institutes in Peru, mostly related to classification tasks.
 
+In my undergraduate thesis I studied algorithms to automatically detect ill areas over leaf digital images, this study allowed me to have a better
+understanding of some classical ML techniques and to have a better sense about the difficulty of vision
+tasks. After that I attended some short courses about neuroscience and I have become interested in the field and in the brain. I made a master in
+which I explored some techniques to solve the EEG inverse problem. During the last year I have been using CNNs in different problems
+like image or video classifications. I observed that current AI techniques have some problems manipulating "the unknown" in classification tasks
+(a.k.a openset problem) and that are vulnerable to small changes (adversarial examples). I am currently interested on those problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
