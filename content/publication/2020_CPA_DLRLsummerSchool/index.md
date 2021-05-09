@@ -1,11 +1,12 @@
 ---
-title: "Automatic Leaf Segmentation from Images Taken Under Uncontrolled Conditions Using Convolutional Neural Networks"
+title: "Replacing FC layers in a CNN could improve robustness against adversarial attacks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Salazar-Reque I F
+- Otazu Aldana G
 - Huaman Bustamante S G
 
 # Author notes (optional)
@@ -13,11 +14,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-12-16T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-030-57566-3_27"
+date: "2020-06-16T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-08T00:00:00Z"
+publishDate: "2020-06-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +27,11 @@ publishDate: "2020-01-08T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 5th Brazilian Technology Symposium*
-publication_short: In *Proceedings of the 5th Brazilian Technology Symposium*
+publication: In *CIFAR DLRL Summer School*
+publication_short: In *CIFAR DLRL Summer School*
 
-abstract: Automatic leaf segmentation from images taken in-field in uncontrolled conditions is a very important problem that has not been properly reviewed and that is crucial due to its possible use as a previous step in classification algorithms that can be used in agriculture applications. In this work, a CNN architecture (LinkNet) was trained to solve the isolated leaf segmentation problem under natural conditions. To do so, an open dataset has been modified and augmented, using rotations, shearing, and artificial illumination changes, in order to have a proper amount of imagery for training and validation. We have tested the CNN in two different datasets. The first belongs to the original open dataset that shares some visual characteristics with training and validation dataset. The second one contained its own imagery from a different set (images from different plants and with different illumination conditions) in order to evaluate the CNN model generalization. We obtained a mean Intersection Over Union (IoU) value of 0.90 for the first test and a 0.92 for the second one. An analysis of these results has been made and some problems regarding classification applications were commented.
+abstract: 
+Current neural networks for image classifications consist of layers of neurons performing simple computations, which approximate linear functions. As these functions approximate linear classifiers, the training of such networks is simplified. On the flip side, linear classifiers are intrinsically susceptible for adversarial small perturbations that could flip an image across a classification boundary, creating misclassifications that are imperceptible for human beings. Although adversarial examples are calculated from a particular network architecture, they generalize to different network architectures. In this contribution, we report that, after training, replacing the last fully connected segment for an algorithm that operates by proximity highly improves CNN robustness against adversarial perturbations. We have tested our modified network in the MNIST database using adversarial examples. By varying the perturbation amplitude, we show that for an amplitude perturbation of 0.25 our model performs at least 55% of accuracy whereas the standard network collapses to 15 percent.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007%2F978-3-030-57566-3_27.pdf'
+url_pdf: 'https://github.com/itamarsalazar/starter-academic/blob/master/content/publication/2020_CPA_DLRLsummerSchool/POSTER_DLRL_IFSR.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
