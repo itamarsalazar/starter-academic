@@ -41,7 +41,7 @@ abstract: The underspecification of most machine learning pipelines means that w
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
