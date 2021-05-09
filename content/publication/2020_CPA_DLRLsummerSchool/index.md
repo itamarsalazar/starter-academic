@@ -24,14 +24,13 @@ publishDate: "2020-06-08T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *CIFAR DLRL Summer School*
 publication_short: In *CIFAR DLRL Summer School*
 
-abstract: 
-Current neural networks for image classifications consist of layers of neurons performing simple computations, which approximate linear functions. As these functions approximate linear classifiers, the training of such networks is simplified. On the flip side, linear classifiers are intrinsically susceptible for adversarial small perturbations that could flip an image across a classification boundary, creating misclassifications that are imperceptible for human beings. Although adversarial examples are calculated from a particular network architecture, they generalize to different network architectures. In this contribution, we report that, after training, replacing the last fully connected segment for an algorithm that operates by proximity highly improves CNN robustness against adversarial perturbations. We have tested our modified network in the MNIST database using adversarial examples. By varying the perturbation amplitude, we show that for an amplitude perturbation of 0.25 our model performs at least 55% of accuracy whereas the standard network collapses to 15 percent.
+abstract: Current neural networks for image classifications consist of layers of neurons performing simple computations, which approximate linear functions. As these functions approximate linear classifiers, the training of such networks is simplified. On the flip side, linear classifiers are intrinsically susceptible for adversarial small perturbations that could flip an image across a classification boundary, creating misclassifications that are imperceptible for human beings. Although adversarial examples are calculated from a particular network architecture, they generalize to different network architectures. In this contribution, we report that, after training, replacing the last fully connected segment for an algorithm that operates by proximity highly improves CNN robustness against adversarial perturbations. We have tested our modified network in the MNIST database using adversarial examples. By varying the perturbation amplitude, we show that for an amplitude perturbation of 0.25 our model performs at least 55% of accuracy whereas the standard network collapses to 15 percent.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
