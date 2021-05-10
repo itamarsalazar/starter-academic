@@ -30,8 +30,8 @@ publishDate: "2020-01-08T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Robust and Reliable Machine Learning in the Real World at the ICLR 2021*
-publication_short: In *Robust and Reliable Machine Learning in the Real World at the ICLR 2021*
+publication: In *aRobust and Reliable Machine Learning in the Real World at the ICLR 2021*
+publication_short: In *aRobust and Reliable Machine Learning in the Real World at the ICLR 2021*
 
 abstract: The underspecification of most machine learning pipelines means that we cannot rely solely on validation performance to assess the robustness of deep learning systems to naturally occurring distribution shifts. Instead, making sure that a neural network can generalize across a large number of different situations requires to understand the specific way in which it solves a task. In this work, we propose to study this problem from a geometric perspective with the aim to understand two key characteristics of neural network solutions in underspecified settings:How is the geometry of the learned function related to the data representation? And, are deep networks always biased towards simpler solutions, as conjectured in recent literature?  We show that the way neural networks handle the underspecification of these problems is highly dependent on the data representation, affecting both the geometry and the complexity of the learned predictors. Our results highlight that understanding the architectural inductive bias in deep learning is fundamental to address the fairness, robustness, and generalization of these systems..
 
