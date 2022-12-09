@@ -10,8 +10,8 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: INICTEL-UNI
-  url: https://www.inictel-uni.edu.pe/
+- name: LIM (PUCP)
+  url: https://investigacion.pucp.edu.pe/laboratorio/imagenes-medicas/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adversarial robustness in deeep learning and applications.
@@ -19,12 +19,15 @@ bio: My research interests include adversarial robustness in deeep learning and 
 # Interests to show in About widget
 interests:
 - Adversarial robustness
-- Deep Learning
+- Ultraound beamforming
 - Applications
 
 # Education to show in About widget
 education:
   courses:
+   - course: PhD in Engineering (ongoing)
+    institution: Pontificia Universidad Católica del Perú (fellowship by peruvian government)
+    year: 2024
   - course: MSc in Electronic Engineering
     institution: Universidad Nacional de Ingeniería (fellowship by peruvian government)
     year: 2018
