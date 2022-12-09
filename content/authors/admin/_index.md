@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: PhD in Engineering (ongoing)
+  - course: PhD in Engineering (ongoing)
     institution: Pontificia Universidad Católica del Perú (fellowship by peruvian government)
     year: 2024
   - course: MSc in Electronic Engineering
